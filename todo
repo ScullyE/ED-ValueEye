@@ -1,0 +1,22 @@
+highlight for high value targets
+BUG TEST BABAYY
+    star types and mass missing??? <<<<>>>>
+    SORT BY FEATURE (sort by value for now) <<<<<>>>>>
+    Planets under parent planets???
+    Scanned/unscanned indicator
+    record value log on jump or exit game
+    Earth-like and metal icons too similar
+    create seperate "auto-update" function that checks EVERYTHING up to jump
+    Auto update runs on startup, or on refresh button, or whenever new log is found
+        regular updates should check
+            same time
+            stars
+            system (should be handled)
+
+
+
+Adds:
+trip tracker (with are you sure? reset button), using SAAScanComplete
+Spotify/music control
+fuel tracker
+system playlist

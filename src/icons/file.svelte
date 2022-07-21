@@ -1,0 +1,41 @@
+
+<script>
+    export var size = 24;
+    export var col = "#FF2233";
+ </script>
+
+
+<svg
+width={size}
+height={size}
+style="stroke:{col};fill:{col}"
+viewBox="0 0 16.875 16.875"
+version="1.1"
+id="svg11774"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:svg="http://www.w3.org/2000/svg">
+<defs
+id="defs11771" />
+<g
+id="layer1"
+transform="translate(-80.909706,-131.76345)">
+<g
+  aria-label="?"
+  transform="matrix(0.26458333,0,0,0.26458333,49.706215,-0.3537721)"
+  id="text5074"
+  style="font-size:40px;line-height:1.25;white-space:pre;shape-inside:url(#rect5076);fill-opacity:1;stroke:none;stroke-opacity:1">
+ <path
+    d="m 132.66621,543.79427 q 0,-3.68403 0.83412,-6.56867 0.83411,-2.88465 2.01579,-4.86569 1.18166,-1.98102 3.09318,-4.55288 1.3902,-1.91152 2.18956,-3.12793 0.79936,-1.25118 1.32067,-2.74563 0.52133,-1.52923 0.52133,-3.26697 v -0.0347 q 0,-3.02368 -1.56396,-4.69191 -1.52922,-1.66823 -4.30961,-1.66823 -2.81514,0 -4.37912,2.0853 -1.5292,2.05053 -1.56395,5.83881 v 0.0347 h -7.19426 v -0.0347 q 0.13897,-4.58765 1.73774,-7.81984 1.59873,-3.26696 4.48337,-4.96994 2.88467,-1.70299 6.84671,-1.70299 4.13583,0 7.08998,1.5292 2.95417,1.52923 4.4834,4.44863 1.56395,2.88464 1.56395,6.98572 v 0.0347 q 0,2.46759 -0.66033,4.44862 -0.62559,1.98102 -1.56398,3.44074 -0.90362,1.4597 -2.50235,3.54498 -1.73774,2.22431 -2.81514,3.96207 -1.0774,1.70298 -1.80724,4.13583 -0.72986,2.39807 -0.72986,5.56077 z m -0.17385,5.52601 h 7.43754 v 7.43754 h -7.43754 z"
+    style="font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;stroke-width:1.77945;fill-opacity:1;stroke:none;stroke-opacity:1"
+    id="path11270" />
+</g>
+<path
+  style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+  d="m 81.409706,132.26345 h 9.260416 l 6.614583,6.61458 10e-7,9.26042 H 81.409707 Z"
+  id="path1118" />
+<path
+  style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+  d="m 90.670122,132.26345 v 6.61458 h 6.614583"
+  id="path1439" />
+</g>
+</svg>

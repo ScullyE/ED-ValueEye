@@ -1,0 +1,31 @@
+<script>
+    export var size = 24;
+    export var col = "#FF2233";
+ </script>
+
+<svg
+width={size}
+height={size}
+style="stroke:{col};fill:{col}"
+   viewBox="0 0 8.9375029 17.933037"
+   version="1.1"
+   id="svg22280"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs22277" />
+  <g
+     id="layer1"
+     transform="translate(-114.18999,-116.04894)">
+    <circle
+       style="fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="path19677"
+       cx="118.65874"
+       cy="129.51323"
+       r="3.96875" />
+    <path
+       style="fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 114.68999,129.51323 c 0,-5.29166 2.64583,-3.96875 3.96875,-12.96458 1.32292,8.99583 3.96875,7.67292 3.96875,12.96458"
+       id="path19834" />
+  </g>
+</svg>
